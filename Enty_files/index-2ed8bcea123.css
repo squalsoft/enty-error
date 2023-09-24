@@ -4489,17 +4489,7 @@ span.link[data-v-5ed2f6ce] {
     -webkit-transform: rotate(360deg);
   }
 } /* breakpoints */
-/* colors */
-.bg-modal[data-v-d2579377] {
-  background-image: url("assets/folders-modal-01ca5b49.svg");
-  background-repeat: no-repeat;
-  width: 527px;
-  height: 864px;
-  position: absolute;
-  right: -91px;
-  bottom: 0;
-  top: 19px;
-}
+
 @media (max-width: 768px) {
   .bg-modal[data-v-d2579377] {
     background-image: none;
