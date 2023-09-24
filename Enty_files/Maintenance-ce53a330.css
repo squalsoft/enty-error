@@ -1,0 +1,53 @@
+/* breakpoints */
+/* colors */
+.maintenance[data-v-ca80d398] {
+  padding: 32px;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+.maintenance[data-v-ca80d398] {
+    flex-direction: column;
+    padding: 0;
+}
+}
+.maintenance__text[data-v-ca80d398] {
+  text-align: left;
+}
+.maintenance__text p[data-v-ca80d398] {
+  font-size: 24px;
+}
+.maintenance__text p[data-v-ca80d398]:first-child {
+  color: rgba(0, 0, 0, 0.64);
+  font-size: 20px;
+}
+.maintenance__text h2[data-v-ca80d398] {
+  max-width: 552px;
+  font-size: 48px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+@media (max-width: 768px) {
+.maintenance__text[data-v-ca80d398] {
+    text-align: center;
+}
+.maintenance__text p[data-v-ca80d398] {
+    font-size: 20px;
+}
+.maintenance__text p[data-v-ca80d398]:first-child {
+    font-size: 16px;
+}
+.maintenance__text h2[data-v-ca80d398] {
+    font-size: 32px;
+    max-width: 270px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+}
+.maintenance__img[data-v-ca80d398] {
+  aspect-ratio: 1;
+  width: 100%;
+  max-width: 560px;
+}
